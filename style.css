@@ -1,0 +1,53 @@
+html{
+ background-color: rgb(98, 181, 209);
+}
+
+body{
+    background-color: rgb(45, 167, 45, 0.8);
+    width: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+
+}
+th,td{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    border-collapse: collapse;
+    margin: 10px auto;
+    width: 75%;
+    font-size: 14px;
+    
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+#Burger{
+    color: aqua;
+
+}
+#Fries{
+    color: aqua;
+}
+
+table{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+button{
+    color:grey;
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    font-size: 25px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(87, 186, 231);
+}
